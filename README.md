@@ -1,6 +1,8 @@
 # EX-NO-12-ELGAMAL-ALGORITHM
-# SINDHU PRIYA REDDY
-# 212224040319
+```
+NAME: SANTHOSH S
+REG.NO: 212224100052
+```
 
 ## AIM:
 To Implement ELGAMAL ALGORITHM
@@ -27,8 +29,7 @@ To Implement ELGAMAL ALGORITHM
 
 ## Program:
 
-
-```
+```c
 #include <stdio.h> 
 #include <math.h> 
 long long int modExp(long long int base, long long int exp, long long int mod) { 
@@ -69,8 +70,8 @@ int main() {
 
 ## Output:
 
-<img width="1688" height="851" alt="image" src="https://github.com/user-attachments/assets/25854346-5629-472f-99c8-96aca7cb8e6e" />
+<img width="394" height="102" alt="Screenshot 2026-05-27 105613" src="https://github.com/user-attachments/assets/c14fd9c2-74fd-41bd-8b60-80db2601fe41" />
 
 
 ## Result:
-The program is executed successfully.
+The program is executed successfully and the output is viewed.
